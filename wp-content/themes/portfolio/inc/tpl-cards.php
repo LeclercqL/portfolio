@@ -8,7 +8,6 @@ $text = get_sub_field('description');
 
 <section class="container">
     <div class="container__background">
-        <!-- <iframe src='https://my.spline.design/bgneon-6817b3d979e0dda0d8f0c42ee5767237/' frameborder='0' width='100%' height='100%'></iframe> -->
     </div>
 
     <div class="container__cards">
